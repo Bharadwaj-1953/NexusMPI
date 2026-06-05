@@ -1,4 +1,4 @@
-# <div align="center">**Scalable Distributed Processing Engine via MPI and Docker**</div>
+# <div align="center">**Scalable Distributed Processing Engine via <br> MPI and Docker**</div>
 
 <br>
 
